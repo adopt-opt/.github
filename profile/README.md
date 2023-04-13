@@ -2,7 +2,7 @@
 
 Welcome to the organizational repository for AI-Driven Design Optimization with Physics Simulators. The main working repository of this org is
 
-* [adopt-opt](https://github.com/adopt-opt/adopt-py): the main Python package
+* [adopt-py](https://github.com/adopt-opt/adopt-py): the main Python package
 
 ## Getting Involved
 
