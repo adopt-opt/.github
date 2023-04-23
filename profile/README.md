@@ -6,7 +6,7 @@ Welcome to the organizational repository for AI-Driven Design Optimization with 
 
 ## Documentation
 
-Please see the Notion documentation page.
+Please see the [Notion page](https://broad-mechanic-ee3.notion.site/ADOPT-AI-Driven-Design-Optimization-with-Physics-Simulators-239b8bb101874273957181c8828742fe).
 
 ## Getting Involved
 
